@@ -1,0 +1,6 @@
+CIRCUITPY_WIFI_SSID=""
+CIRCUITPY_WIFI_PASSWORD="!"
+ADAFRUIT_AIO_USERNAME = ""
+ADAFRUIT_AIO_KEY      = ""
+timezone = "America/Los_Angeles"
+
